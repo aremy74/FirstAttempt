@@ -1,5 +1,5 @@
 Por fin un nuevo contenido del archivo
-Esta es la linea del medio
+Esta es la linea del medio CAmbio Local
 Este es el final
 
 3er cambio
