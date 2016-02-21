@@ -1,5 +1,5 @@
 Por fin un nuevo contenido del archivo
-Esta es la linea del medio
-Este es el final
+Esta es la linea del medio EDITADO EN GITHUN
+Este es el final Editado en GITHUB
 
 3er cambio
